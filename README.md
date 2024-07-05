@@ -1,4 +1,4 @@
-## <h1 align="center"><b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Sebastián hernández serrato <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHp1YXM0dGcxeXJ3em42NDNhM3Zic2hrYnE0cjE1cGxrN2gyc2dhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IpM4kYGnxqmE02P9rr/giphy.gif" width="75"></h1>
+## <h1 align="center"><b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Sebastián Hernández Serrato <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHp1YXM0dGcxeXJ3em42NDNhM3Zic2hrYnE0cjE1cGxrN2gyc2dhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IpM4kYGnxqmE02P9rr/giphy.gif" width="75"></h1>
 ## <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F7A615&random=false&width=435&lines=Mechatronics+Engineer;automation+and+industrial+robotics.;Equipment+maintenance+technician." alt="Typing SVG" /></a>
   
 </p>
