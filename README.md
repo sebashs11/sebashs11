@@ -6,7 +6,7 @@
 
 ## <picture><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxlOWRnbTMxNWliam95bWdpMWx2YXlyd3kyNDFtMDF0NjhhMzZwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p72HBPRgo8mDmyAfWC/giphy.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 
 <br>
 
