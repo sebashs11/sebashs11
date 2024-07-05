@@ -79,7 +79,7 @@
 
 <div align='center'>
 
-<b>✨Muchas Gracias✨</b>
+<b>✨Thank You✨</b>
 
 </div>
 
